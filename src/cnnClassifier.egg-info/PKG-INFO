@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/CharalamposZisis/Chicken-Disease-Classification
+Author: CharalamposZisis
+Author-email: xarisban@gmail.com
+Project-URL: Bug Tracker, https://github.com/CharalamposZisis/Chicken-Disease-Classification/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# Chicken-Disease-Classification
+On this project i will try to classify chickens Disease based on fecal images. 

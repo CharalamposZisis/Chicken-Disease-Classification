@@ -1,0 +1,684 @@
+[2025-10-07 21:18:35,646: INFO:main: Welcome to my custom log]
+[2025-10-08 17:31:50,049: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 17:31:50,052: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 17:32:08,549: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 17:32:08,551: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 17:32:33,185: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 17:32:33,186: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 17:37:39,969: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 17:37:39,970: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 17:37:39,971: INFO:common: created directory at: artifacts/]
+[2025-10-08 17:37:39,973: INFO:common: created directory at: data_ingestion]
+[2025-10-08 17:45:56,981: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 17:45:56,983: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 17:45:56,984: INFO:common: created directory at: artifacts/]
+[2025-10-08 17:45:56,985: INFO:common: created directory at: data_ingestion]
+[2025-10-08 17:54:03,378: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 17:54:03,380: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 17:54:03,381: INFO:common: created directory at: artifacts/]
+[2025-10-08 17:54:03,382: INFO:common: created directory at: data_ingestion]
+[2025-10-08 17:56:29,285: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 17:56:29,287: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 17:56:29,288: INFO:common: created directory at: artifacts/]
+[2025-10-08 17:56:29,289: INFO:common: created directory at: data_ingestion]
+[2025-10-08 17:57:36,569: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 17:57:36,572: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 17:57:36,574: INFO:common: created directory at: artifacts/]
+[2025-10-08 17:57:36,577: INFO:common: created directory at: data_ingestion]
+[2025-10-08 18:11:19,601: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 18:11:19,604: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 18:11:19,605: INFO:common: created directory at: artifacts/]
+[2025-10-08 18:11:19,606: INFO:common: created directory at: data_ingestion]
+[2025-10-08 18:11:39,605: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 18:11:39,607: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 18:11:39,608: INFO:common: created directory at: artifacts/]
+[2025-10-08 18:11:39,609: INFO:common: created directory at: data_ingestion]
+[2025-10-08 21:59:13,336: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 21:59:13,344: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 21:59:13,345: INFO:common: created directory at: artifacts/]
+[2025-10-08 21:59:13,346: INFO:common: created directory at: data_ingestion]
+[2025-10-08 22:14:04,370: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 22:14:04,373: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 22:14:04,374: INFO:common: created directory at: artifacts/]
+[2025-10-08 22:14:04,376: INFO:common: created directory at: data_ingestion]
+[2025-10-08 22:17:17,764: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 22:17:17,766: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 22:17:17,767: INFO:common: created directory at: artifacts/]
+[2025-10-08 22:17:17,768: INFO:common: created directory at: data_ingestion]
+[2025-10-08 22:17:58,167: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 22:17:58,169: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 22:17:58,170: INFO:common: created directory at: artifacts/]
+[2025-10-08 22:17:58,171: INFO:common: created directory at: data_ingestion]
+[2025-10-08 22:18:12,352: INFO:2533139175: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F43F:168657:8DF19:A1A9C:68E6B7FB
+Accept-Ranges: bytes
+Date: Wed, 08 Oct 2025 19:17:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230027-FRA
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1759951079.674456,VS0,VE32
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9473889defdd3661d098f0e61c73ecb82d3f1ff9
+Expires: Wed, 08 Oct 2025 19:22:58 GMT
+Source-Age: 233
+
+]
+[2025-10-08 23:15:57,466: INFO:main: Welcome to my custom log]
+[2025-10-08 23:18:47,054: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-08 23:18:47,055: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 23:18:47,056: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 23:18:47,056: INFO:common: created directory at: artifacts/]
+[2025-10-08 23:18:47,056: INFO:common: created directory at: data_ingestion]
+[2025-10-08 23:18:47,056: ERROR:main: unsupported operand type(s) for /: 'str' and 'int']
+Traceback (most recent call last):
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/main.py", line 11, in <module>
+    pipeline.main()
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/src/cnnClassifier/components/data_ingestion.py", line 24, in download_file
+    logger.info(f"File already exists of size: {get_size(Path(self.config.local_data_file))}")
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/myenv/lib/python3.12/site-packages/ensure/main.py", line 872, in __call__
+    return_val = self.f(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/src/cnnClassifier/utils/common.py", line 102, in get_size
+    size_in_kb = round(os.path.join(path)/1024)
+                       ~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
+[2025-10-08 23:21:21,673: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-08 23:21:21,674: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-08 23:21:21,675: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-08 23:21:21,675: INFO:common: created directory at: artifacts/]
+[2025-10-08 23:21:21,675: INFO:common: created directory at: data_ingestion]
+[2025-10-08 23:21:21,675: INFO:data_ingestion: File already exists of size: ~11345 KB]
+[2025-10-08 23:21:21,819: INFO:main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-09 17:44:14,367: INFO:font_manager: Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)]
+[2025-10-09 17:44:14,545: INFO:font_manager: generated new fontManager]
+[2025-10-10 10:51:19,144: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-10 10:51:19,155: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-10 10:51:19,158: INFO:common: created directory at: artifacts/]
+[2025-10-10 10:51:19,159: INFO:common: created directory at: prepare_base_model]
+[2025-10-10 10:53:56,658: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-10 10:53:56,660: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-10 10:53:56,662: INFO:common: created directory at: artifacts/]
+[2025-10-10 10:53:56,663: INFO:common: created directory at: prepare_base_model]
+[2025-10-10 10:54:15,857: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-10 10:54:16,093: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-10 11:20:09,531: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-10 11:20:09,532: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-10 11:20:09,534: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-10 11:20:09,534: INFO:common: created directory at: artifacts/]
+[2025-10-10 11:20:09,534: INFO:common: created directory at: data_ingestion]
+[2025-10-10 11:20:13,818: INFO:data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9F4D:D568D:EE04B0:10E8E7D:68E8C1A1
+Accept-Ranges: bytes
+Date: Fri, 10 Oct 2025 08:20:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230119-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1760084411.581130,VS0,VE483
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4ea32bad8d4afabce7bd16509c55e207146fa472
+Expires: Fri, 10 Oct 2025 08:25:11 GMT
+Source-Age: 0
+
+]
+[2025-10-10 11:20:13,938: INFO:main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-10 11:20:13,938: INFO:main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-10 11:20:13,939: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-10 11:20:13,940: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-10 11:20:13,941: INFO:common: created directory at: artifacts/]
+[2025-10-10 11:20:13,941: INFO:common: created directory at: prepare_base_model]
+[2025-10-10 11:20:14,365: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-10 11:20:14,544: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-10 11:20:14,681: INFO:main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x================x]
+[2025-10-10 16:29:26,461: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-10 16:29:26,466: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-10 16:29:26,467: INFO:common: created directory at: artifacts/]
+[2025-10-10 16:29:26,469: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir/model.h5]
+[2025-10-10 16:29:26,471: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-10 22:12:50,286: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-10 22:12:50,296: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-10 22:12:50,298: INFO:common: created directory at: artifacts/]
+[2025-10-10 22:12:50,299: INFO:common: created directory at: training]
+[2025-10-10 22:18:54,343: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-10 22:18:54,347: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-10 22:18:54,349: INFO:common: created directory at: artifacts/]
+[2025-10-10 22:18:54,350: INFO:common: created directory at: training]
+[2025-10-11 07:02:47,077: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 07:02:47,081: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 07:02:47,082: INFO:common: created directory at: artifacts/]
+[2025-10-11 07:02:47,083: INFO:common: created directory at: training]
+[2025-10-11 07:02:47,084: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 07:02:47,085: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 07:15:35,528: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 07:15:35,531: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 07:15:35,532: INFO:common: created directory at: artifacts/]
+[2025-10-11 07:15:35,533: INFO:common: created directory at: training]
+[2025-10-11 07:15:35,534: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 07:15:35,535: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 07:15:35,872: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 07:27:06,976: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 07:27:06,978: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 07:27:06,979: INFO:common: created directory at: artifacts/]
+[2025-10-11 07:27:06,980: INFO:common: created directory at: training]
+[2025-10-11 07:27:06,981: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 07:27:06,982: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 07:27:07,274: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 07:51:43,587: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 07:51:43,595: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 07:51:43,598: INFO:common: created directory at: artifacts/]
+[2025-10-11 07:51:43,600: INFO:common: created directory at: training]
+[2025-10-11 07:51:43,601: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 07:51:43,603: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 07:51:44,036: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 07:57:13,958: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 07:57:13,961: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 07:57:13,962: INFO:common: created directory at: artifacts/]
+[2025-10-11 07:57:13,963: INFO:common: created directory at: training]
+[2025-10-11 07:57:13,964: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 07:57:13,965: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 07:57:14,283: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 08:58:11,566: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 08:58:11,568: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 08:58:11,570: INFO:common: created directory at: artifacts/]
+[2025-10-11 08:58:11,571: INFO:common: created directory at: training]
+[2025-10-11 08:58:11,572: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 08:58:11,573: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 08:58:11,866: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 09:00:44,087: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 09:00:44,089: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 09:00:44,090: INFO:common: created directory at: artifacts/]
+[2025-10-11 09:00:44,091: INFO:common: created directory at: training]
+[2025-10-11 09:03:10,417: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 09:03:10,420: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 09:03:10,421: INFO:common: created directory at: artifacts/]
+[2025-10-11 09:03:10,422: INFO:common: created directory at: training]
+[2025-10-11 09:04:27,055: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 09:04:27,058: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 09:04:27,059: INFO:common: created directory at: artifacts/]
+[2025-10-11 09:04:27,060: INFO:common: created directory at: training]
+[2025-10-11 09:04:27,061: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 09:04:27,062: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 09:04:27,397: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 09:16:32,763: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 09:16:32,766: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 09:16:32,768: INFO:common: created directory at: artifacts/]
+[2025-10-11 09:16:32,769: INFO:common: created directory at: training]
+[2025-10-11 09:17:00,092: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 09:17:00,095: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 09:17:00,096: INFO:common: created directory at: artifacts/]
+[2025-10-11 09:17:00,097: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 09:17:00,098: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 09:17:00,099: INFO:common: created directory at: training]
+[2025-10-11 09:17:00,393: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 09:18:58,843: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 09:18:58,846: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 09:18:58,847: INFO:common: created directory at: artifacts/]
+[2025-10-11 09:18:58,849: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 09:18:58,850: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 09:18:58,851: INFO:common: created directory at: training]
+[2025-10-11 09:18:59,170: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 09:19:31,910: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 09:19:31,912: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 09:19:31,913: INFO:common: created directory at: artifacts/]
+[2025-10-11 09:19:31,914: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 09:19:31,914: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 09:19:31,915: INFO:common: created directory at: training]
+[2025-10-11 09:19:58,811: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 09:19:58,814: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 09:19:58,815: INFO:common: created directory at: artifacts/]
+[2025-10-11 09:19:58,816: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 09:19:58,817: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 09:19:58,818: INFO:common: created directory at: training]
+[2025-10-11 09:19:59,126: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 09:26:45,659: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 09:28:14,602: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 09:28:14,604: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 09:28:14,605: INFO:common: created directory at: artifacts/]
+[2025-10-11 09:28:14,606: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 09:28:14,606: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 09:28:14,607: INFO:common: created directory at: training]
+[2025-10-11 09:28:14,786: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 09:35:10,252: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 09:35:10,401: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 10:17:01,415: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-11 10:17:01,417: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 10:17:01,418: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 10:17:01,418: INFO:common: created directory at: artifacts/]
+[2025-10-11 10:17:01,418: INFO:common: created directory at: data_ingestion]
+[2025-10-11 10:17:08,509: INFO:data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8F7B:3ECA26:551B62:67C8E5:68EA046E
+Accept-Ranges: bytes
+Date: Sat, 11 Oct 2025 07:17:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230104-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1760167023.000443,VS0,VE454
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 72dbf9b91cb03b46c2e80193a29a0504a4c95049
+Expires: Sat, 11 Oct 2025 07:22:03 GMT
+Source-Age: 0
+
+]
+[2025-10-11 10:17:08,587: INFO:main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-11 10:17:08,587: INFO:main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-11 10:17:08,588: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 10:17:08,589: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 10:17:08,589: INFO:common: created directory at: artifacts/]
+[2025-10-11 10:17:08,589: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 10:17:08,936: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 10:17:09,075: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 10:17:09,179: INFO:main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x================x]
+[2025-10-11 10:17:09,179: INFO:main: >>>>>> stage Training Stage started <<<<<<]
+[2025-10-11 10:17:09,180: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 10:17:09,181: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 10:17:09,181: INFO:common: created directory at: artifacts/]
+[2025-10-11 10:17:09,181: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 10:17:09,182: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 10:17:09,182: INFO:common: created directory at: training]
+[2025-10-11 10:17:09,337: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 10:18:00,561: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 10:18:00,730: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 10:18:00,887: INFO:main: >>>>>> stage Training Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:24:19,383: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-11 11:24:19,385: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:24:19,386: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:24:19,387: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:24:19,387: INFO:common: created directory at: data_ingestion]
+[2025-10-11 11:24:19,387: INFO:data_ingestion: File already exists of size: ~11345 KB]
+[2025-10-11 11:24:19,494: INFO:main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:24:19,494: INFO:main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-11 11:24:19,495: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:24:19,496: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:24:19,496: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:24:19,496: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 11:24:19,844: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:24:20,044: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:24:30,865: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-11 11:24:30,867: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:24:30,868: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:24:30,868: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:24:30,868: INFO:common: created directory at: data_ingestion]
+[2025-10-11 11:24:34,450: INFO:data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B9B8:3E1A56:60D838:752B92:68EA143E
+Accept-Ranges: bytes
+Date: Sat, 11 Oct 2025 08:24:32 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230026-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1760171072.665501,VS0,VE431
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3ba472a9b5ff25588160a2f61dc31eeb60beb2f4
+Expires: Sat, 11 Oct 2025 08:29:32 GMT
+Source-Age: 0
+
+]
+[2025-10-11 11:24:34,532: INFO:main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:24:34,532: INFO:main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-11 11:24:34,533: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:24:34,534: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:24:34,534: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:24:34,534: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 11:24:34,841: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:24:34,975: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:24:35,091: INFO:main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:24:35,091: INFO:main: >>>>>> stage Training Stage started <<<<<<]
+[2025-10-11 11:24:35,093: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:24:35,094: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:24:35,094: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:24:35,095: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 11:24:35,095: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 11:24:35,096: INFO:common: created directory at: training]
+[2025-10-11 11:24:35,264: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 11:24:46,214: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-11 11:24:46,215: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:24:46,216: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:24:46,216: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:24:46,216: INFO:common: created directory at: data_ingestion]
+[2025-10-11 11:24:46,217: INFO:data_ingestion: File already exists of size: ~11345 KB]
+[2025-10-11 11:24:46,315: INFO:main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:24:46,315: INFO:main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-11 11:24:46,316: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:24:46,317: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:24:46,317: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:24:46,317: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 11:24:46,640: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:24:46,823: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:24:46,963: INFO:main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:24:46,963: INFO:main: >>>>>> stage Training Stage started <<<<<<]
+[2025-10-11 11:24:46,965: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:24:46,966: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:24:46,966: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:24:46,966: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 11:24:46,966: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 11:24:46,966: INFO:common: created directory at: training]
+[2025-10-11 11:24:47,112: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 11:25:34,169: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:25:34,306: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:25:34,432: INFO:main: >>>>>> stage Training Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:25:34,432: INFO:main: >>>>>> stage Evaluation Stage started <<<<<<]
+[2025-10-11 11:25:34,434: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:25:34,435: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:25:34,435: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:25:34,634: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 11:25:49,821: ERROR:main: 'module' object is not callable]
+Traceback (most recent call last):
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/main.py", line 46, in <module>
+    obj.main()
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/src/cnnClassifier/pipeline/stage_04_evaluation.py", line 16, in main
+    evaluation.save_score()
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/src/cnnClassifier/components/evaluation.py", line 43, in save_score
+    save_json(path=Path("scores.json"), data=scores)
+                   ^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+[2025-10-11 11:35:05,443: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-11 11:35:05,445: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:35:05,446: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:35:05,446: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:35:05,446: INFO:common: created directory at: data_ingestion]
+[2025-10-11 11:35:05,446: INFO:data_ingestion: File already exists of size: ~11345 KB]
+[2025-10-11 11:35:05,542: INFO:main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:35:05,542: INFO:main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-11 11:35:05,543: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:35:05,544: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:35:05,544: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:35:05,544: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 11:35:05,848: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:35:06,021: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:35:06,157: INFO:main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:35:06,157: INFO:main: >>>>>> stage Training Stage started <<<<<<]
+[2025-10-11 11:35:06,158: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:35:06,159: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:35:06,159: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:35:06,159: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 11:35:06,159: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 11:35:06,160: INFO:common: created directory at: training]
+[2025-10-11 11:35:06,308: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 11:35:52,189: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:35:52,403: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 11:35:52,576: INFO:main: >>>>>> stage Training Stage completed <<<<<<
+
+x================x]
+[2025-10-11 11:35:52,576: INFO:main: >>>>>> stage Evaluation Stage started <<<<<<]
+[2025-10-11 11:35:52,579: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 11:35:52,580: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 11:35:52,580: INFO:common: created directory at: artifacts/]
+[2025-10-11 11:35:52,772: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 11:36:08,345: ERROR:main: 'module' object is not callable]
+Traceback (most recent call last):
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/main.py", line 46, in <module>
+    obj.main()
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/src/cnnClassifier/pipeline/stage_04_evaluation.py", line 16, in main
+    evaluation.save_score()
+  File "/home/xaris/Desktop/Projects/Chicken-Disease-Classification /Chicken-Disease-Classification-1/src/cnnClassifier/components/evaluation.py", line 43, in save_score
+    save_json(path=Path("scores.json"), data=scores)
+                   ^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+[2025-10-11 14:28:59,841: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-11 14:28:59,844: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 14:28:59,845: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 14:28:59,845: INFO:common: created directory at: artifacts/]
+[2025-10-11 14:28:59,845: INFO:common: created directory at: data_ingestion]
+[2025-10-11 14:28:59,845: INFO:data_ingestion: File already exists of size: ~11345 KB]
+[2025-10-11 14:29:00,020: INFO:main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-11 14:29:00,020: INFO:main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-11 14:29:00,022: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 14:29:00,023: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 14:29:00,024: INFO:common: created directory at: artifacts/]
+[2025-10-11 14:29:00,024: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 14:29:00,415: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 14:29:00,607: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 14:29:00,764: INFO:main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x================x]
+[2025-10-11 14:29:00,764: INFO:main: >>>>>> stage Training Stage started <<<<<<]
+[2025-10-11 14:29:00,766: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 14:29:00,767: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 14:29:00,767: INFO:common: created directory at: artifacts/]
+[2025-10-11 14:29:00,767: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 14:29:00,767: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 14:29:00,768: INFO:common: created directory at: training]
+[2025-10-11 14:29:00,917: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 14:29:46,800: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 14:29:47,009: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 14:29:47,188: INFO:main: >>>>>> stage Training Stage completed <<<<<<
+
+x================x]
+[2025-10-11 14:29:47,188: INFO:main: >>>>>> stage Evaluation Stage started <<<<<<]
+[2025-10-11 14:29:47,190: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 14:29:47,191: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 14:29:47,192: INFO:common: created directory at: artifacts/]
+[2025-10-11 14:29:47,384: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 14:30:02,490: INFO:common: json file saved at: scores.json]
+[2025-10-11 14:30:02,490: INFO:main: >>>>>> stage Evaluation Stage completed <<<<<<
+
+x================x]
+[2025-10-11 15:49:04,268: INFO:stage_01_data_ingestion: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-11 15:49:04,270: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 15:49:04,271: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 15:49:04,272: INFO:common: created directory at: artifacts/]
+[2025-10-11 15:49:04,272: INFO:common: created directory at: data_ingestion]
+[2025-10-11 15:49:04,272: INFO:data_ingestion: File already exists of size: ~11345 KB]
+[2025-10-11 15:49:04,368: INFO:stage_01_data_ingestion: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-11 15:53:56,120: INFO:stage_02_prepare_base_model: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-11 15:53:56,122: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 15:53:56,123: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 15:53:56,123: INFO:common: created directory at: artifacts/]
+[2025-10-11 15:53:56,123: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 15:53:56,435: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 15:53:56,565: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 15:53:56,665: INFO:stage_02_prepare_base_model: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x================x]
+[2025-10-11 15:55:40,792: INFO:stage_02_prepare_base_model: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-11 15:55:40,793: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 15:55:40,795: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 15:55:40,795: INFO:common: created directory at: artifacts/]
+[2025-10-11 15:55:40,795: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 15:55:41,115: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 15:55:41,245: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 15:55:41,353: INFO:stage_02_prepare_base_model: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x================x]
+[2025-10-11 15:55:45,113: INFO:stage_03_training: >>>>>> stage Training Stage started <<<<<<]
+[2025-10-11 15:55:45,115: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 15:55:45,116: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 15:55:45,116: INFO:common: created directory at: artifacts/]
+[2025-10-11 15:55:45,116: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 15:55:45,423: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 15:55:45,608: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 15:55:45,773: INFO:stage_03_training: >>>>>> stage Training Stage completed <<<<<<
+
+x================x]
+[2025-10-11 16:40:03,739: INFO:stage_03_training: >>>>>> stage Training Stage started <<<<<<]
+[2025-10-11 16:40:03,741: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 16:40:03,742: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 16:40:03,742: INFO:common: created directory at: artifacts/]
+[2025-10-11 16:40:03,742: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 16:40:03,742: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 16:40:03,743: INFO:common: created directory at: training]
+[2025-10-11 16:40:04,000: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 16:40:55,652: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 16:40:55,854: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 16:40:55,976: INFO:stage_03_training: >>>>>> stage Training Stage completed <<<<<<
+
+x================x]
+[2025-10-11 16:41:01,082: INFO:stage_04_evaluation: >>>>>> stage Training Stage started <<<<<<]
+[2025-10-11 16:41:01,085: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 16:41:01,086: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 16:41:01,086: INFO:common: created directory at: artifacts/]
+[2025-10-11 16:41:01,388: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 16:41:16,477: INFO:common: json file saved at: scores.json]
+[2025-10-11 16:41:16,477: INFO:stage_04_evaluation: >>>>>> stage Training Stage completed <<<<<<
+
+x================x]
+[2025-10-11 19:01:58,226: INFO:_internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.0.165:8050]
+[2025-10-11 19:01:58,227: INFO:_internal: [33mPress CTRL+C to quit[0m]
+[2025-10-11 19:02:44,291: INFO:_internal: 127.0.0.1 - - [11/Oct/2025 19:02:44] "GET / HTTP/1.1" 200 -]
+[2025-10-11 19:02:44,375: INFO:_internal: 127.0.0.1 - - [11/Oct/2025 19:02:44] "[33mGET /assets/js/color-modes.js HTTP/1.1[0m" 404 -]
+[2025-10-11 19:02:44,382: INFO:_internal: 127.0.0.1 - - [11/Oct/2025 19:02:44] "[33mGET /assets/dist/css/bootstrap.min.css HTTP/1.1[0m" 404 -]
+[2025-10-11 19:02:44,385: INFO:_internal: 127.0.0.1 - - [11/Oct/2025 19:02:44] "[33mGET /assets/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -]
+[2025-10-11 19:02:44,560: INFO:_internal: 127.0.0.1 - - [11/Oct/2025 19:02:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-10-11 19:04:47,664: INFO:_internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.0.165:8050]
+[2025-10-11 19:04:47,665: INFO:_internal: [33mPress CTRL+C to quit[0m]
+[2025-10-11 19:04:48,643: INFO:_internal: 127.0.0.1 - - [11/Oct/2025 19:04:48] "GET / HTTP/1.1" 200 -]
+[2025-10-11 19:06:41,973: INFO:_internal: 127.0.0.1 - - [11/Oct/2025 19:06:41] "GET / HTTP/1.1" 200 -]
+[2025-10-11 19:06:54,168: INFO:main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-10-11 19:06:54,172: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 19:06:54,174: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 19:06:54,174: INFO:common: created directory at: artifacts/]
+[2025-10-11 19:06:54,175: INFO:common: created directory at: data_ingestion]
+[2025-10-11 19:07:00,900: INFO:data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E3FC:13C6FD:AC96BC:CC285D:68EA809E
+Accept-Ranges: bytes
+Date: Sat, 11 Oct 2025 16:06:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230061-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1760198816.526749,VS0,VE467
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e85d1d82be725aa7997608952338977babca8de2
+Expires: Sat, 11 Oct 2025 16:11:55 GMT
+Source-Age: 0
+
+]
+[2025-10-11 19:07:01,063: INFO:main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x================x]
+[2025-10-11 19:07:01,063: INFO:main: >>>>>> stage Prepare Base Model Stage started <<<<<<]
+[2025-10-11 19:07:01,065: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 19:07:01,067: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 19:07:01,068: INFO:common: created directory at: artifacts/]
+[2025-10-11 19:07:01,068: INFO:common: created directory at: prepare_base_model]
+[2025-10-11 19:07:01,611: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 19:07:01,806: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 19:07:01,976: INFO:main: >>>>>> stage Prepare Base Model Stage completed <<<<<<
+
+x================x]
+[2025-10-11 19:07:01,976: INFO:main: >>>>>> stage Training Stage started <<<<<<]
+[2025-10-11 19:07:01,981: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 19:07:01,983: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 19:07:01,984: INFO:common: created directory at: artifacts/]
+[2025-10-11 19:07:01,985: INFO:common: created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-10-11 19:07:01,986: INFO:common: created directory at: artifacts/prepare_callbacks/tensorboard_log_dir]
+[2025-10-11 19:07:01,987: INFO:common: created directory at: training]
+[2025-10-11 19:07:02,324: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 19:07:53,267: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 19:07:53,406: WARNING:saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-11 19:07:53,540: INFO:main: >>>>>> stage Training Stage completed <<<<<<
+
+x================x]
+[2025-10-11 19:07:53,540: INFO:main: >>>>>> stage Evaluation Stage started <<<<<<]
+[2025-10-11 19:07:53,542: INFO:common: yaml file: config/config.yaml loaded successfully]
+[2025-10-11 19:07:53,543: INFO:common: yaml file: params.yaml loaded successfully]
+[2025-10-11 19:07:53,544: INFO:common: created directory at: artifacts/]
+[2025-10-11 19:07:53,758: WARNING:saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-11 19:08:08,999: INFO:common: json file saved at: scores.json]
+[2025-10-11 19:08:09,000: INFO:main: >>>>>> stage Evaluation Stage completed <<<<<<
+
+x================x]
+[2025-10-11 19:08:09,921: INFO:_internal: 127.0.0.1 - - [11/Oct/2025 19:08:09] "GET /train HTTP/1.1" 200 -]

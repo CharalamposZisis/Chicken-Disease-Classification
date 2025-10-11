@@ -1,0 +1,9 @@
+AUGMENTATION: True
+IMAGE_SIZE: [224, 224, 3]
+BATCH_SIZE: 32          # because we have a small dataset
+EPOCHS: 1
+CLASSES: 2              # Healthy and Coccidiosis
+LEARNING_RATE: 0.01 
+OPTIMIZER: adam 
+WEIGHTS: imagenet       # It is standard to use imagenet weights for image classification tasks
+INCLUDE_TOP: False  
