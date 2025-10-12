@@ -20,3 +20,30 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Ignore Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+*.myenv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore pip cache
+pip-log.txt
+
+
+# Ignore virtual environment
+myenv/
