@@ -7,9 +7,9 @@
   
 💡 Technologies & Techniques Used:
 
-🔸Deep Learning: Convolutional Neural Networks (CNNs) for image classification. 
-🔸Automation and DevOps:: CI/CD pipeline using GitHub Actions.
-🔸Cloud Deployment: AWS for hosting and running the application
+🔸Deep Learning: Convolutional Neural Networks (CNNs) for image classification. <br />
+🔸Automation and DevOps:: CI/CD pipeline using GitHub Actions.<br />
+🔸Cloud Deployment: AWS for hosting and running the application<br />
 
 
 💯 Next Steps:
