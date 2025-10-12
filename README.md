@@ -1,7 +1,23 @@
-# Chicken-Disease-Classification
-On this project i will try to classify chickens Disease based on fecal images. 
+# Chicken-Disease-Classification 🐔🦠
 
-## Workflows
+📢  👉  Project Overview 
+
+  In this project, I worked on classifying chicken diseases based on fecal images. Through this project, I gained hands-on experience in creating a CI/CD pipeline, Git Hub Actions and deploying it on AWS. The project was developed following the instructions of Krish Naik (https://www.youtube.com/watch?v=p1bfK8ZJgkE&t=12327s). 
+
+  
+💡 Technologies & Techniques Used:
+
+🔸Deep Learning: Convolutional Neural Networks (CNNs) for image classification. 
+🔸Automation and DevOps:: CI/CD pipeline using GitHub Actions.
+🔸Cloud Deployment: AWS for hosting and running the application
+
+
+💯 Next Steps:
+
+In my future projects, I plan to implement these kinds of automations independently.
+
+  
+## 🛠 The Workflow of the project:
 
 1. Update config.yaml
 2. Update secrets.yaml
